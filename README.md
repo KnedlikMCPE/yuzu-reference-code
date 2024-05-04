@@ -3,6 +3,8 @@ SPDX-FileCopyrightText: 2018 yuzu Emulator Project
 SPDX-License-Identifier: GPL-2.0-or-later
 -->
 
+## This is a repo serving as reference code for a Yuzu rewrite in Rust. Below is the original README.
+
 <h1 align="center">
   <br>
   <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
@@ -67,9 +69,7 @@ You can download the latest releases automatically via the installer on our [dow
 
 If you enjoy the project and want to support us financially, check out our Patreon!
 
-<a href="https://www.patreon.com/yuzuteam">
-    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
+[this used to be a patreon link]
 
 Any donations received will go towards things like:
 * Switch consoles to explore and reverse-engineer the hardware
